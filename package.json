@@ -1,0 +1,28 @@
+{
+  "name": "leifarriens.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leifarriens/leifarriens.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leifarriens/leifarriens.github.io/issues"
+  },
+  "homepage": "https://github.com/leifarriens/leifarriens.github.io#readme",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "scrollreveal": "^4.0.6"
+  },
+  "devDependencies": {
+    "sass": "^1.26.3"
+  }
+}
